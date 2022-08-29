@@ -1,9 +1,14 @@
-# Login form & Sign Up form full Code
+<HTML>
+    <HEAD>
+        <title> Gym App Test Website </title>
+    </HEAD>
 
-[This](https://sharujan122.github.io/Login-Signup-form/login.html) is a [Login](https://sharujan122.github.io/Login-Signup-form/login.html) form and a [Sign up](https://sharujan122.github.io/Login-Signup-form/signup.html) form.  
-Built with **HTML5** and **CSS3**. 
-
-### Tasks
-
-* Require the username and password on the **login** page.
-* Require full name, email address, username and a password on the **sign up** page.
+    <BODY>
+        <P> This is the first line segment. There is no size setting. Take the internal fixed value size=1 to display <br>
+        <HR />
+        <P> This is the second segment, size=5<br>
+        <HR SIZE=5>
+        <P> This is the third segment, size=10<br>
+        <HR SIZE=10>
+    </BODY>
+</HTML>
